@@ -1,4 +1,4 @@
-/*ex 01*/
+/*ex 01 - Lista 1*/
 
 
 #include <stdio.h>
